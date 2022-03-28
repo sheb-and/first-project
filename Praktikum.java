@@ -1,2 +1,4 @@
 class Praktikum {
+	void main() {
+	}
 }
